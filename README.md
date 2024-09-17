@@ -25,7 +25,3 @@ O conteúdo das aulas e atividades foi estruturado para cobrir os seguintes tóp
 - **Pandas:** Biblioteca para manipulação e análise de dados em tabelas;
 
 - **SciPy:** Biblioteca para computação científica, com ferramentas para integração, otimização, álgebra linear, entre outros.
-
-
-Desenvolvido com ❤️ por [Tovany](https://github.com/Tovany)
-
