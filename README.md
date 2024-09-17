@@ -26,3 +26,6 @@ O conteúdo das aulas e atividades foi estruturado para cobrir os seguintes tóp
 
 - **SciPy:** Biblioteca para computação científica, com ferramentas para integração, otimização, álgebra linear, entre outros.
 
+
+Desenvolvido com ❤️ por [Tovany](https://github.com/Tovany)
+
