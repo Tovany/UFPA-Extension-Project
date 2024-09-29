@@ -1,6 +1,7 @@
 # **Operadores e expressões em python**
 ========================================================
-Em Python, operadores e expressões são utilizados para realizar operações sobre variáveis e valores. Os operadores permitem manipular dados de diferentes formas, enquanto as expressões combinam valores, variáveis e operadores para produzir novos valores.
+
+- Em Python, operadores e expressões são utilizados para realizar operações sobre variáveis e valores. Os operadores permitem manipular dados de diferentes formas, enquanto as expressões combinam valores, variáveis e operadores para produzir novos valores.
 
 ## Tipo de operadores
 
@@ -157,3 +158,6 @@ Saída:  A lista está vazia.
     print('uva' not in frutas)
     ```
     > Saída: True
+
+
+[Link para o código](https://github.com/Tovany/extensaoUFPA/blob/develop/1_Python/4_Quarta_aula/4_Operators_expressions.py)
