@@ -1,7 +1,7 @@
 # 1. Introdução ao python
 ===========================================================================================
 ## 1.1 Primeiro código
-* Utilizando o `print("")`: Função utilizada para imprimir algo em tela.
+* Utilizando o *print()*: Função utilizada para imprimir algo em tela.
 
 `print("Hello world")`
 > A saída é: `Hello world`
