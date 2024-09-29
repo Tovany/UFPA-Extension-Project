@@ -86,4 +86,4 @@ Se quiserem, façam grupos.
 
 Já foi usado nos exemplos acima métodos construtores, então, se você achar, você já tem uma pista de como usar.
 
-[Link para o código da aula](Terceira_aula\1_Data_types_code.py)
+[Link para o código da aula](https://github.com/Tovany/extensaoUFPA/blob/develop/1_Python/Terceira_aula/1_Data_types_code.py)

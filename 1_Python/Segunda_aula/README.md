@@ -35,4 +35,4 @@ print(f'Meu nome é Marcos e meus irmãos tem as idades:{Idades}')
  *Qualquer coisar, só chamar que eu vou na sua cadeira. Não tenham medo de perguntar ou errar!*
 
 
- 3. [Link para o código da aula](1_Python\Seguna_aula\2_Variables_code.py)
+ 3. [Link para o código da aula](https://github.com/Tovany/extensaoUFPA/blob/develop/1_Python/Seguna_aula/2_Variables_code.py)

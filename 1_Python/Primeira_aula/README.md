@@ -13,4 +13,4 @@
 2. [Link para a segunda aula do canvas](https://www.canva.com/design/DAGLVuytjo4/1w6EJW7ZxUDzn71SjTFduQ/edit?utm_content=DAGLVuytjo4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")
 
 
-3. [Link para o código](1_Python\Primeira_aula\2_Code.py)
+3. [Link para o código](https://github.com/Tovany/extensaoUFPA/blob/develop/1_Python/Primeira_aula/2_Code.py)
