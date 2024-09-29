@@ -1,4 +1,4 @@
-# Tipos de dados
+# **Tipos de dados**
 =================================================================
 
 ## O que são tipos de dados?

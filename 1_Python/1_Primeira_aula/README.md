@@ -1,4 +1,4 @@
-# 1. Introdução ao python
+# **1. Introdução ao python**
 ***
 
 ## 1.1 Primeiro código
